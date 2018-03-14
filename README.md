@@ -1,4 +1,5 @@
-test
+I added a Pikachu datase, and detecting image edge, removing image background scripts in the `tools` folder.
+
 # pix2pix-tensorflow
 
 Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
