@@ -1,4 +1,5 @@
-test
+I added a Pikachu datase, and detecting image edge(edge-detect.py), removing image background scripts(grabcut.py) in the `tools` folder.
+
 # pix2pix-tensorflow
 
 Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
