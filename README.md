@@ -1,4 +1,6 @@
-I added a Pikachu datase, and detecting image edge(edge-detect.py), removing image background scripts(grabcut.py) in the `tools` folder.
+I added a Pikachu dataset, and two scripts - 
+(1) `edge-detect.py`(detecting image edge), 
+(2) `grabcut.py`(removing image background) in the `tools` folder.
 
 # pix2pix-tensorflow
 
