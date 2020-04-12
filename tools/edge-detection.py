@@ -28,7 +28,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 print (cv2.__version__)
-imageDir = "./photos/resized/" #specify your path here
+imageDir = "/Users/laraaneke/dataset-tools/output/aff-256/sq-256" #specify your path here
 image_path_list = []
 valid_image_extensions = [".jpg", ".jpeg", ".png", ".tif", ".tiff"] #specify your vald extensions here
 valid_image_extensions = [item.lower() for item in valid_image_extensions]
